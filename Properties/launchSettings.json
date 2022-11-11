@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "WSL 2": {
+      "commandName": "Project"
+    },
+    "IoTService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

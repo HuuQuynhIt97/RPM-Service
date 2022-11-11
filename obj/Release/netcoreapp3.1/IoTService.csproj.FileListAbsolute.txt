@@ -1,0 +1,185 @@
+H:\a_2021\service\scalingmachine\IoTService\obj\Release\netcoreapp3.1\IoTService.csprojAssemblyReference.cache
+H:\a_2021\service\scalingmachine\IoTService\obj\Release\netcoreapp3.1\IoTService.AssemblyInfoInputs.cache
+H:\a_2021\service\scalingmachine\IoTService\obj\Release\netcoreapp3.1\IoTService.AssemblyInfo.cs
+H:\a_2021\service\scalingmachine\IoTService\obj\Release\netcoreapp3.1\IoTService.csproj.CoreCompileInputs.cache
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\appsettings.Development.json
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\appsettings.json
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\IoTService.exe
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\IoTService.deps.json
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\IoTService.runtimeconfig.json
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\IoTService.runtimeconfig.dev.json
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\IoTService.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\IoTService.pdb
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\MessagePack.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\MessagePack.Annotations.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Serilog.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Serilog.Extensions.Logging.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Serilog.Formatting.Compact.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Serilog.Sinks.Async.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Serilog.Sinks.File.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\System.Diagnostics.EventLog.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\System.IO.Pipelines.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\System.IO.Ports.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\System.Threading.Channels.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+H:\a_2021\service\scalingmachine\IoTService\obj\Release\netcoreapp3.1\IoTService.csproj.CopyComplete
+H:\a_2021\service\scalingmachine\IoTService\obj\Release\netcoreapp3.1\IoTService.dll
+H:\a_2021\service\scalingmachine\IoTService\obj\Release\netcoreapp3.1\IoTService.pdb
+H:\a_2021\service\scalingmachine\IoTService\obj\Release\netcoreapp3.1\IoTService.genruntimeconfig.cache
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\System.Text.Json.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\appsettings.Development.json
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\appsettings.json
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\IoTService.exe
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\IoTService.deps.json
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\IoTService.runtimeconfig.json
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\IoTService.runtimeconfig.dev.json
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\IoTService.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\IoTService.pdb
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Dapper.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\EntityFramework.SqlServer.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\EntityFramework.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\MessagePack.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\MessagePack.Annotations.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Serilog.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Serilog.Extensions.Logging.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Serilog.Formatting.Compact.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Serilog.Sinks.Async.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Serilog.Sinks.File.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Data.SQLite.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.CodeDom.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Data.SQLite.EF6.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Diagnostics.EventLog.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.IO.Pipelines.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.IO.Ports.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Text.Json.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Threading.Channels.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\obj\Release\netcoreapp3.1\IoTService.AssemblyInfoInputs.cache
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\obj\Release\netcoreapp3.1\IoTService.AssemblyInfo.cs
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\obj\Release\netcoreapp3.1\IoTService.csproj.CoreCompileInputs.cache
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\obj\Release\netcoreapp3.1\IoTService.csproj.CopyComplete
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\obj\Release\netcoreapp3.1\IoTService.dll
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\obj\Release\netcoreapp3.1\IoTService.pdb
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\obj\Release\netcoreapp3.1\IoTService.genruntimeconfig.cache
+F:\Angular\SYSTEM\Digital Mixing Room\RPM\IoTService\obj\Release\netcoreapp3.1\IoTService.csproj.AssemblyReference.cache

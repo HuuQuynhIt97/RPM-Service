@@ -1,0 +1,6 @@
+2020-11-20T07:53:47.5296940+07:00  [INF] Worker Start: 11/20/2020 07:53:47 +07:00 (6f0f350a)
+2020-11-20T07:53:48.9245991+07:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-20T07:53:48.9248302+07:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-20T07:53:48.9248714+07:00  [INF] Content root path: "C:\Users\sy.pham\Desktop\test\scalingmachine\ScalingMachineService" (b5d60022)
+2020-11-20T07:53:52.5861554+07:00  [INF] Application is shutting down... (90f52c38)
+2020-11-20T07:53:52.5942896+07:00  [INF] Worker Stop: 11/20/2020 07:53:52 +07:00 (924979d8)

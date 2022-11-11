@@ -1,0 +1,6 @@
+{
+  "portName": "COM4",
+  "MachineID": 2,
+  "SignalrUrl": "http://10.4.4.224:11111/scalingHub",
+  "LogPath": "BigScaleError.txt"
+}

@@ -1,0 +1,4 @@
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\publish\appsettings.json
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\publish\IoTService.pdb
+H:\a_2021\service\scalingmachine\IoTService\bin\Release\netcoreapp3.1\publish\IoTService.exe
